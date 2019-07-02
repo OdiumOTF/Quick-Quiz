@@ -1,0 +1,151 @@
+2019-05-24 21:21:19 INFO  QuickQuiz:346 - 43 History|42 History|
+2019-05-24 21:34:21 INFO  QuickQuiz:431 - Establishing connection. Please wait ...
+2019-05-24 21:34:21 INFO  QuickQuiz:434 - Connected: Socket[addr=localhost/127.0.0.1,port=4444,localport=50970]
+2019-05-24 21:34:35 INFO  QuickQuiz:487 - 50970: ~41~History~The Java programming language was originally developed by:~James Gosling~John Napier~Herman Hollerith~Dennis Ritchie~A
+2019-05-24 21:34:37 INFO  ChatClient2:163 - Establishing connection. Please wait ...
+2019-05-24 21:34:37 INFO  ChatClient2:167 - Connected: Socket[addr=localhost/127.0.0.1,port=4444,localport=50990]
+2019-05-24 21:34:38 INFO  ChatClient2:163 - Establishing connection. Please wait ...
+2019-05-24 21:34:38 INFO  ChatClient2:167 - Connected: Socket[addr=localhost/127.0.0.1,port=4444,localport=50992]
+2019-05-24 21:34:42 INFO  ChatClient2:163 - Establishing connection. Please wait ...
+2019-05-24 21:34:42 INFO  ChatClient2:167 - Connected: Socket[addr=localhost/127.0.0.1,port=4444,localport=50997]
+2019-05-24 21:34:42 INFO  ChatClient2:163 - Establishing connection. Please wait ...
+2019-05-24 21:34:42 INFO  ChatClient2:167 - Connected: Socket[addr=localhost/127.0.0.1,port=4444,localport=50999]
+2019-05-24 21:34:47 INFO  QuickQuiz:487 - 50970: ~42~History~An abacus can be used to quickly perform:~Integration~Trigonometric calculations~Logarithmic calculations~Arithmetic calculations~D
+2019-05-24 21:34:47 ERROR ChatClient2:214 - Handle: 50970: ~42~History~An abacus can be used to quickly perform:~Integration~Trigonometric calculations~Logarithmic calculations~Arithmetic calculations~D
+2019-05-24 21:34:47 ERROR ChatClient2:214 - Handle: 50970: ~42~History~An abacus can be used to quickly perform:~Integration~Trigonometric calculations~Logarithmic calculations~Arithmetic calculations~D
+2019-05-24 21:34:47 ERROR ChatClient2:214 - Handle: 50970: ~42~History~An abacus can be used to quickly perform:~Integration~Trigonometric calculations~Logarithmic calculations~Arithmetic calculations~D
+2019-05-24 21:34:47 ERROR ChatClient2:214 - Handle: 50970: ~42~History~An abacus can be used to quickly perform:~Integration~Trigonometric calculations~Logarithmic calculations~Arithmetic calculations~D
+2019-05-24 21:34:50 INFO  QuickQuiz:485 - 50997: #~42~History~D
+2019-05-24 21:34:56 INFO  QuickQuiz:485 - 50999: #~42~History~B
+2019-05-24 21:35:00 INFO  QuickQuiz:487 - 50970: ~71~Networking~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-24 21:35:00 ERROR ChatClient2:214 - Handle: 50970: ~71~Networking~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-24 21:35:00 ERROR ChatClient2:214 - Handle: 50970: ~71~Networking~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-24 21:35:00 ERROR ChatClient2:214 - Handle: 50970: ~71~Networking~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-24 21:35:00 ERROR ChatClient2:214 - Handle: 50970: ~71~Networking~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-24 21:35:02 INFO  QuickQuiz:485 - 50997: #~71~Networking~a
+2019-05-24 21:35:12 INFO  QuickQuiz:485 - 50999: #~71~Networking~A
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 11 - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 12 - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 13 - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 41 - History
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 42 - History
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 43 - History
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 71 - Networking
+2019-05-24 21:35:17 INFO  QuickQuiz:389 - 72 - Networking
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:17 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: "In Java a String is a(n):"
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: "With reference to the Java statement: Answer = 5 + 3 * 2
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: An abacus can be used to quickly perform:
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: OOP is an acronym for:
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: Slots on a motherboard that allow external devices to be connected are called:
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: TCP/IP is an acronym for:
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: The Java programming language was originally developed by:
+2019-05-24 21:35:18 INFO  QuickQuiz:424 - arr[i]: Wilhelm Schickard and Blaise Pascal created:
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:19 INFO  QuickQuiz:404 - Software - Software
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 11 - Software
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 12 - Software
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 13 - Software
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 41 - History
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 42 - History
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 43 - History
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 71 - Networking
+2019-05-24 21:35:20 INFO  QuickQuiz:389 - 72 - Networking
+2019-05-24 21:35:26 INFO  QuickQuiz:487 - 50970: ~71~.bye~TCP/IP is an acronym for:~Transmission Control Protocol/Internet Programming~Transmission Control Protocol/Internet Protocol~Transmission Centred Protocol/Internet Protocol~Transmission Centric Protocol/Internet Protocol~B
+2019-05-26 19:56:55 INFO  QuickQuiz:548 - Establishing connection. Please wait ...
+2019-05-26 19:56:57 ERROR QuickQuiz:556 - Unexpected exception: Connection refused: connect
+2019-05-26 19:59:04 INFO  ChatClient2:167 - Establishing connection. Please wait ...
+2019-05-26 19:59:05 ERROR ChatClient2:180 - Unexpected exception: Connection refused: connect
+2019-05-26 20:01:24 INFO  QuickQuiz:548 - Establishing connection. Please wait ...
+2019-05-26 20:01:25 ERROR QuickQuiz:556 - Unexpected exception: Connection refused: connect
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:25 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:27 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:29 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:32 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:33 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: "In Java a String is a(n):"
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: "With reference to the Java statement: Answer = 5 + 3 * 2
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: An abacus can be used to quickly perform:
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: OOP is an acronym for:
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: Slots on a motherboard that allow external devices to be connected are called:
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: TCP/IP is an acronym for:
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: The Java programming language was originally developed by:
+2019-05-26 20:01:34 INFO  QuickQuiz:530 - arr[i]: Wilhelm Schickard and Blaise Pascal created:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: "In Java a String is a(n):"
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: "With reference to the Java statement: Answer = 5 + 3 * 2
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: An abacus can be used to quickly perform:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: OOP is an acronym for:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: Slots on a motherboard that allow external devices to be connected are called:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: TCP/IP is an acronym for:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: The Java programming language was originally developed by:
+2019-05-26 20:01:36 INFO  QuickQuiz:530 - arr[i]: Wilhelm Schickard and Blaise Pascal created:
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:36 INFO  QuickQuiz:502 - Software - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:37 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:01:38 INFO  QuickQuiz:479 - 11 - Software
+2019-05-26 20:01:38 INFO  QuickQuiz:479 - 12 - Software
+2019-05-26 20:01:38 INFO  QuickQuiz:479 - 13 - Software
+2019-05-26 20:01:38 INFO  QuickQuiz:479 - 41 - History
+2019-05-26 20:01:39 INFO  QuickQuiz:479 - 42 - History
+2019-05-26 20:01:39 INFO  QuickQuiz:479 - 43 - History
+2019-05-26 20:01:39 INFO  QuickQuiz:479 - 71 - Networking
+2019-05-26 20:01:39 INFO  QuickQuiz:479 - 72 - Networking
+2019-05-26 20:06:25 INFO  QuickQuiz:548 - Establishing connection. Please wait ...
+2019-05-26 20:06:26 ERROR QuickQuiz:556 - Unexpected exception: Connection refused: connect
